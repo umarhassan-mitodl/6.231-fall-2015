@@ -1,0 +1,27 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: b57036d6-6100-52f3-75cb-f64d1f3ab7e8
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 4b7e0c07-417b-481b-a1c3-11a80d8c2948
+  name: Lecture Slides
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: b5dc417a-44fb-714a-52ee-5d0860b99b53
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: fe86d1f4-43d1-345e-c5b2-d5e243014d13
+  name: Exams
+  pageRef: /pages/exams
+  weight: 40
+- identifier: 8de30ceb-1b3d-870d-6b51-084ac0438387
+  name: Projects
+  pageRef: /pages/projects
+  weight: 50
+- identifier: e0ea5281-28d8-a624-388d-a079ca1ce048
+  name: Related Video Lectures
+  pageRef: /pages/related-video-lectures
+  weight: 60
